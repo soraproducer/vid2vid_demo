@@ -48,10 +48,16 @@ To preserve the background of the original video, I used [SAM](https://github.co
 
 Here are two demo videos using two different reference images in IP-Adapter.
 
-![Ref Image 1: Supergirl](demo_imgs/supergirl_ref.jpg)
+### Ref Image 1: Super Girl
+<img src="demo_imgs/supergirl_ref.jpg" alt="Ref Image 1: Supergirl" height="400">
+
+### Video Output
 ![Video Output](demo_vids/demo_ref_supergirl.gif)
 
-![Ref Image 2: Superwomen](demo_imgs/superwoman_ref.jpg)
+### Ref Image 2: Superwoman
+<img src="demo_imgs/superwoman_ref.jpg" alt="Ref Image 2: Superwoman" height="400">
+
+### Video Output
 ![Video Output](demo_vids/demo_ref_superwoman.gif)
 
 ### Fine-tuned model
